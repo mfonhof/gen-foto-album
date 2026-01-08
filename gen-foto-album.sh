@@ -1,4 +1,7 @@
 #!/usr/bin/env bash
+# Recursive static photo gallery generator
+# Bash script for generating HTML photo galleries
+
 set -x
 shopt -s nullglob
 shopt -s nocaseglob
